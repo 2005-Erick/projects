@@ -2,7 +2,7 @@
 name: ArtFlow
 description: Seu Repertório Artístico.
 addresses:
-  preview: https://github.com/2005-Erick/ArtFlow-Seu-Repositorio-Artistico/blob/main/img/preview-2.png
+  preview: https://github.com/2005-Erick/ArtFlow-Seu-Repositorio-Artistico/blob/main/img/Preview1.png
   homepage: https://2005-erick.github.io/ArtFlow-Seu-Repositorio-Artistico/
   repository: https://github.com/2005-Erick/ArtFlow-Seu-Repositorio-Artistico
 category:
